@@ -11,7 +11,7 @@ public class TestApplication {
 
 	@GetMapping("/")
 	public String asdf() {
-		return "Asdf18";
+		return "Asdf19";
 	}
 
 	public static void main(String[] args) {
