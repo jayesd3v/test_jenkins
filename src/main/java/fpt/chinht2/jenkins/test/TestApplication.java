@@ -11,7 +11,7 @@ public class TestApplication {
 
 	@GetMapping("/")
 	public String asdf() {
-		return "Default texts";
+		return "Default text";
 	}
 
 	public static void main(String[] args) {
